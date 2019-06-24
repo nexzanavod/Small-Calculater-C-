@@ -1,0 +1,6 @@
+C:\Users\nexza\source\repos\Lab_01_03\Lab_01_03\bin\Debug\Lab_01_03.exe.config
+C:\Users\nexza\source\repos\Lab_01_03\Lab_01_03\bin\Debug\Lab_01_03.exe
+C:\Users\nexza\source\repos\Lab_01_03\Lab_01_03\bin\Debug\Lab_01_03.pdb
+C:\Users\nexza\source\repos\Lab_01_03\Lab_01_03\obj\Debug\Lab_01_03.csproj.CoreCompileInputs.cache
+C:\Users\nexza\source\repos\Lab_01_03\Lab_01_03\obj\Debug\Lab_01_03.exe
+C:\Users\nexza\source\repos\Lab_01_03\Lab_01_03\obj\Debug\Lab_01_03.pdb
